@@ -5,6 +5,5 @@
     { "id": 3, "name": "Batman", "desc": "Bruce Wayne wages eternal war on the criminals of Gotham City.", "imgURL" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Batman_%28Michael_Keaton%29.jpg/200px-Batman_%28Michael_Keaton%29.jpg" },
     { "id": 4, "name": "Wonder Woman", "desc": "Beautiful as Aphrodite, wise as Athena", "imgURL" : "https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" },
     { "id": 5, "name": "The Flash", "desc": "Three men have held the title of 'The Fastest Man Alive'", "imgURL" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/The_Flash_season_3.jpg/220px-The_Flash_season_3.jpg" },
-    { "id": 6, "name": "Aquaman", "desc": "The son of a lighthouse keeper and an Atlantean queen", "imgURL" : "https://upload.wikimedia.org/wikipedia/en/3/3a/Aquaman_poster.jpg" }
-  ]
+    ]
 }
